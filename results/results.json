@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "subject": "charged twice??",
+    "category": "billing",
+    "urgency": "high",
+    "suggested_action": "Apologize for the inconvenience, ask the customer to provide the transaction IDs or screenshots of the duplicate charges, investigate the duplicate payment in the system, and issue a refund for the extra $49 as soon as possible."
+  },
+  {
+    "id": 2,
+    "subject": "app closes when I upload a photo",
+    "category": "technical",
+    "urgency": "medium",
+    "suggested_action": "Ask the user to provide crash logs and confirm available storage. Suggest clearing app cache or reinstalling after a device reboot, and check if the issue persists on a different device or with a smaller image size."
+  },
+  {
+    "id": 3,
+    "subject": "student discount?",
+    "category": "general_question",
+    "urgency": "low",
+    "suggested_action": "Ask the customer if they have a student ID and provide information about any student discounts or plans available."
+  },
+  {
+    "id": 4,
+    "subject": "URGENT - API returning 500 errors",
+    "category": "technical",
+    "urgency": "critical",
+    "suggested_action": "Notify the engineering team immediately, provide the request ID (req_8f2a91), and monitor logs for the 500 errors. Update the customer with a status and estimated resolution time."
+  },
+  {
+    "id": 5,
+    "subject": "can't reset password",
+    "category": "account",
+    "urgency": "medium",
+    "suggested_action": "Ask the customer to provide their registered email address and verify their identity. Then manually send a password reset link and guide them through the process."
+  },
+  {
+    "id": 6,
+    "subject": "I CANCELLED 3 WEEKS AGO",
+    "category": "billing",
+    "urgency": "high",
+    "suggested_action": "Apologize for the inconvenience and verify the cancellation status. Issue a refund immediately and send a cancellation confirmation email by Friday."
+  },
+  {
+    "id": 7,
+    "subject": "dark mode idea",
+    "category": "feature_request",
+    "urgency": "low",
+    "suggested_action": "Thank the user for the suggestion and let them know the feature is under consideration."
+  }
+]

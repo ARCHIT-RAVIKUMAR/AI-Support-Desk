@@ -1,0 +1,16 @@
+[
+  {"id": 1, "subject": "charged twice??",
+   "body": "hey i just looked at my bank statement and you guys took $49 from me TWICE on the 1st. this is the 2nd time it has happened. i want the extra charge refunded and i want to know why its happening"},
+  {"id": 2, "subject": "app closes when I upload a photo",
+   "body": "Hi, whenever I try to upload a photo bigger than around 5MB the app just closes. Android 14, app version 3.2.1. I already reinstalled it twice. It was working fine last week. Not super urgent but its annoying."},
+  {"id": 3, "subject": "student discount?",
+   "body": "Hello! I'm a uni student and I really like your product. Is there a student plan or any discount? Thanks!"},
+  {"id": 4, "subject": "URGENT - API returning 500 errors",
+   "body": "Our checkout is completely down. Your API has been giving 500 errors for 25 minutes now and we are losing orders. Request ID req_8f2a91. Need an engineer ASAP."},
+  {"id": 5, "subject": "can't reset password",
+   "body": "I forgot my password and the reset email never arrives. Checked spam already. Can someone help me get into my account?"},
+  {"id": 6, "subject": "I CANCELLED 3 WEEKS AGO",
+   "body": "This is ridiculous. I cancelled my plan three weeks ago and you are STILL charging me. If I dont get a refund and a cancellation confirmation by Friday I will dispute it with my bank and post reviews everywhere."},
+  {"id": 7, "subject": "dark mode idea",
+   "body": "Love the app. One small idea, a dark mode would be great for using it at night. No rush, just a suggestion :)"}
+]

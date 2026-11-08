@@ -1,0 +1,14 @@
+Tickets processed: 7 (7 ok, 0 failed)
+
+By category:
+  billing: 2
+  technical: 2
+  general_question: 1
+  account: 1
+  feature_request: 1
+
+By urgency:
+  critical: 1
+  high: 2
+  medium: 2
+  low: 2
